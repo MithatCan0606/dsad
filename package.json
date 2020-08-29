@@ -1,0 +1,21 @@
+{
+  "name": "death-basvuru",
+  "version": "1.0.0",
+  "description": "",
+  "main": "death.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "death",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "0.0.9",
+    "dateformat": "^3.0.3",
+    "discord.js": "^12.2.0",
+    "fs": "0.0.1-security",
+    "humanize-duration": "^3.23.1",
+    "lowdb": "^1.0.0",
+    "moment": "^2.26.0",
+    "util": "^0.12.3"
+  }
+}
